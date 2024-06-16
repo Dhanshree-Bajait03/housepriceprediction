@@ -13,9 +13,7 @@ Key Components
 ## Flask Web Application: The project incorporates a Flask web application, providing a user-friendly interface for predicting house prices. Users can input details such as the number of bedrooms, bathrooms, house size, and zip code to receive a price prediction.
 
 Usage
-Clone the repository:
-
-git clone https://github.com/yourusername/HousePrice_Prediction.git
+Clone the repository: https://github.com/Dhanshree-Bajait03/housepriceprediction/edit/main/README.md
 cd HousePrice_Prediction
 
 Install dependencies:

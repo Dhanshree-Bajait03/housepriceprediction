@@ -25,7 +25,7 @@ Run the Flask application:
 
 python main.py
 
-Open your web browser and visit http://127.0.0.1:5000/ to interact with the House Price Prediction interface.
+Open your web browser and visit http://127.0.0.1:5000 to interact with the House Price Prediction interface.
 
 Datasets Used
 Seattle House Price Prediction Dataset [Kaggle]
